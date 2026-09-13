@@ -25,8 +25,14 @@ Through this scholarship, I am hosted by **Universidad Anáhuac Mayab** (Mérida
 
 ## 📂 Repository Contents
 This repository is specifically curated for **Anáhuac Mayab students**. It contains:
-*   **Lecture Slides:** Presentations from my current courses and seminars.
-*   **Study Materials:** Supplemental readings and data sets for student analysis.
+*   **Lecture Slides:** Presentations from my current courses and seminars:
+    *   [`Cryptocurrency_Market_Structure_Jalal_Westland.pptx`](Cryptocurrency_Market_Structure_Jalal_Westland.pptx): Digital Asset Market Structure, Custody, Microstructure & Forensics (English, 24 slides).
+    *   [`Estructura_Mercado_Criptomonedas_Jalal_Westland.pptx`](Estructura_Mercado_Criptomonedas_Jalal_Westland.pptx): Estructura del Mercado de Criptomonedas, Custodia y Forense Blockchain (Español, 24 diapositivas).
+    *   [`BLUE-Estructura_Mercado_Criptomonedas_Jalal_Westland.pptx`](BLUE-Estructura_Mercado_Criptomonedas_Jalal_Westland.pptx): Edición Ejecutiva en Azul Marino / Pizarra (Español, 22 diapositivas).
+    *   [`Prediction_Markets_Kalshi_Polymarket.pptx`](Prediction_Markets_Kalshi_Polymarket.pptx): Information Finance, Event Contracts, Kalshi & Polymarket Microstructure (English, 22 slides).
+    *   [`Mercados_de_Prediccion_Kalshi_Polymarket.pptx`](Mercados_de_Prediccion_Kalshi_Polymarket.pptx): Mercados de Predicción, Contratos de Eventos y Microestructura (Español, 22 diapositivas).
+*   **Study Materials & Research Papers:**
+    *   [`The-Limits-of-Blockchain-Forensics.pdf`](The-Limits-of-Blockchain-Forensics.pdf): *The Limits of Blockchain Forensics: Deconstructing the Mythologies of Automated Governance* (Fabiha Jalal & J. Christopher Westland).
 *   **Student Presentations:** Exemplary work and templates created to guide student research projects.
 *   **FinTech & Analytics Resources:** Curated links and code snippets related to modern information systems.
 
